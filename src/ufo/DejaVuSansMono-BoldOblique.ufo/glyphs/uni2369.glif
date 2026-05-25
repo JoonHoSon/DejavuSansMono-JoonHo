@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2369" format="2">
+  <advance width="1233"/>
+  <unicode hex="2369"/>
+  <outline>
+    <component base="diaeresis.symbols" yOffset="-200"/>
+    <component base="greater"/>
+  </outline>
+</glyph>

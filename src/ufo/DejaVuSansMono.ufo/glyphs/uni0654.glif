@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0654" format="2">
+  <advance width="1233"/>
+  <unicode hex="0654"/>
+  <anchor x="611" y="1760" name="rtl-above-mark"/>
+  <anchor x="605" y="1130" name="_rtl-above"/>
+  <anchor x="605" y="1130" name="_Ligature rtl-above"/>
+  <outline>
+    <component base="uni0674" yOffset="-115"/>
+  </outline>
+</glyph>

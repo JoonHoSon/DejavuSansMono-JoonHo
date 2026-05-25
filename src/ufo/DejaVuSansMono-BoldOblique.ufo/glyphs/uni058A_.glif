@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni058A" format="2">
+  <advance width="1233"/>
+  <unicode hex="058A"/>
+  <outline>
+    <contour>
+      <point x="336" y="735" type="line"/>
+      <point x="612" y="593"/>
+      <point x="967" y="735" type="qcurve"/>
+      <point x="911" y="444" type="line"/>
+      <point x="571" y="326"/>
+      <point x="280" y="444" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1DAB" format="2">
+  <advance width="1233"/>
+  <unicode hex="1DAB"/>
+  <outline>
+    <contour>
+      <point x="377" y="1295" type="line"/>
+      <point x="581" y="1295" type="line"/>
+      <point x="580" y="831" type="line"/>
+      <point x="857" y="831" type="line"/>
+      <point x="857" y="668" type="line"/>
+      <point x="376" y="668" type="line"/>
+    </contour>
+  </outline>
+</glyph>

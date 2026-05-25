@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFEDF" format="2">
+  <advance width="1233"/>
+  <unicode hex="FEDF"/>
+  <anchor x="612" y="-121" name="rtl-below"/>
+  <anchor x="588" y="1636" name="rtl-above"/>
+  <outline>
+    <contour>
+      <point x="1001" y="371" type="line" smooth="yes"/>
+      <point x="1001" y="193"/>
+      <point x="914" y="92" type="qcurve" smooth="yes"/>
+      <point x="834" y="0"/>
+      <point x="562" y="0" type="qcurve" smooth="yes"/>
+      <point x="-20" y="0" type="line"/>
+      <point x="-20" y="184" type="line"/>
+      <point x="506" y="184" type="line" smooth="yes"/>
+      <point x="724" y="184"/>
+      <point x="768" y="228" type="qcurve" smooth="yes"/>
+      <point x="817" y="277"/>
+      <point x="817" y="383" type="qcurve" smooth="yes"/>
+      <point x="817" y="1556" type="line"/>
+      <point x="1001" y="1556" type="line"/>
+    </contour>
+  </outline>
+</glyph>

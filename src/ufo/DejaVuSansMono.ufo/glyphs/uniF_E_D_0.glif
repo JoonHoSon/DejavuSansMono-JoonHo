@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFED0" format="2">
+  <advance width="1233"/>
+  <unicode hex="FED0"/>
+  <anchor x="606" y="-97" name="rtl-below"/>
+  <anchor x="616" y="1340" name="rtl-above"/>
+  <outline>
+    <component base="arabic_dot" xOffset="539" yOffset="950"/>
+    <component base="uniFECC"/>
+  </outline>
+</glyph>

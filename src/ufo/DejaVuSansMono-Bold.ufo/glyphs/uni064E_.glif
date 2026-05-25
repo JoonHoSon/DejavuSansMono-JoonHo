@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni064E" format="2">
+  <advance width="1233"/>
+  <unicode hex="064E"/>
+  <anchor x="618" y="1105.5" name="_rtl-above-mark"/>
+  <anchor x="618" y="1105.5" name="_rtl-above"/>
+  <anchor x="618" y="1105.5" name="_Ligature rtl-above"/>
+  <outline>
+    <contour>
+      <point x="304" y="1152" type="line"/>
+      <point x="304" y="1322" type="line"/>
+      <point x="928" y="1494" type="line"/>
+      <point x="928" y="1324" type="line"/>
+    </contour>
+  </outline>
+</glyph>

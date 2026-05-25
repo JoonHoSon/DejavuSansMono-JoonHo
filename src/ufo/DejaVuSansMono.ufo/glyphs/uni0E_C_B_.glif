@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0ECB" format="2">
+  <advance width="1233"/>
+  <unicode hex="0ECB"/>
+  <anchor x="1233" y="1120" name="_lao-above"/>
+  <outline>
+    <contour>
+      <point x="329.5" y="1464" type="line"/>
+      <point x="329.5" y="1606" type="line"/>
+      <point x="545.5" y="1606" type="line"/>
+      <point x="545.5" y="1822" type="line"/>
+      <point x="687.5" y="1822" type="line"/>
+      <point x="687.5" y="1606" type="line"/>
+      <point x="903.5" y="1606" type="line"/>
+      <point x="903.5" y="1464" type="line"/>
+      <point x="687.5" y="1464" type="line"/>
+      <point x="687.5" y="1248" type="line"/>
+      <point x="545.5" y="1248" type="line"/>
+      <point x="545.5" y="1464" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thorn" format="2">
+  <advance width="1233"/>
+  <unicode hex="00DE"/>
+  <anchor x="566" y="0" name="below"/>
+  <anchor x="566" y="1493" name="above"/>
+  <anchor x="308" y="0" name="cedilla"/>
+  <outline>
+    <contour>
+      <point x="403" y="1057" type="line"/>
+      <point x="403" y="532" type="line"/>
+      <point x="637" y="532" type="line" smooth="yes"/>
+      <point x="795" y="532"/>
+      <point x="952" y="664"/>
+      <point x="952" y="795" type="qcurve" smooth="yes"/>
+      <point x="952" y="926"/>
+      <point x="795" y="1057"/>
+      <point x="637" y="1057" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="201" y="1493" type="line"/>
+      <point x="403" y="1493" type="line"/>
+      <point x="403" y="1223" type="line"/>
+      <point x="657" y="1223" type="line" smooth="yes"/>
+      <point x="917" y="1223"/>
+      <point x="1165" y="1013"/>
+      <point x="1165" y="795" type="qcurve" smooth="yes"/>
+      <point x="1165" y="576"/>
+      <point x="917" y="367"/>
+      <point x="657" y="367" type="qcurve" smooth="yes"/>
+      <point x="403" y="367" type="line"/>
+      <point x="403" y="0" type="line"/>
+      <point x="201" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

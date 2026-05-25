@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gbreve" format="2">
+  <advance width="1233"/>
+  <unicode hex="011E"/>
+  <anchor x="666" y="0" name="below"/>
+  <anchor x="666" y="0" name="cedilla"/>
+  <outline>
+    <component base="uni0306.case" xOffset="50"/>
+    <component base="G"/>
+  </outline>
+</glyph>

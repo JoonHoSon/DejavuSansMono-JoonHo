@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFE8E" format="2">
+  <advance width="1233"/>
+  <unicode hex="FE8E"/>
+  <anchor x="673" y="-149" name="rtl-below"/>
+  <anchor x="670" y="1715" name="rtl-above"/>
+  <outline>
+    <contour>
+      <point x="539" y="412" type="qcurve" smooth="yes"/>
+      <point x="539" y="1556" type="line"/>
+      <point x="825" y="1556" type="line"/>
+      <point x="825" y="424" type="line" smooth="yes"/>
+      <point x="825" y="318"/>
+      <point x="874" y="270" type="qcurve" smooth="yes"/>
+      <point x="918" y="226"/>
+      <point x="1098" y="226" type="qcurve" smooth="yes"/>
+      <point x="1254" y="226" type="line"/>
+      <point x="1254" y="0" type="line"/>
+      <point x="990" y="0" type="line" smooth="yes"/>
+      <point x="706" y="0"/>
+      <point x="626" y="92" type="qcurve" smooth="yes"/>
+      <point x="539" y="193"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01D7" format="2">
+  <advance width="1233"/>
+  <unicode hex="01D7"/>
+  <outline>
+    <component base="Diaeresis" yOffset="249"/>
+    <component base="U"/>
+    <component base="Acute" yOffset="515"/>
+  </outline>
+</glyph>

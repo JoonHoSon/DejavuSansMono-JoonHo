@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFEBE" format="2">
+  <advance width="1233"/>
+  <unicode hex="FEBE"/>
+  <anchor x="288" y="-488" name="rtl-below"/>
+  <anchor x="208" y="1112" name="rtl-above"/>
+  <outline>
+    <component base="arabic_dot" xOffset="260" yOffset="670"/>
+    <component base="uniFEBA"/>
+  </outline>
+</glyph>

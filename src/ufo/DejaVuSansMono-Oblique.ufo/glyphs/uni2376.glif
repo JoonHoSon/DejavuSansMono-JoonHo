@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2376" format="2">
+  <advance width="1233"/>
+  <unicode hex="2376"/>
+  <outline>
+    <component base="uni237A"/>
+    <component base="underbar.wide"/>
+  </outline>
+</glyph>

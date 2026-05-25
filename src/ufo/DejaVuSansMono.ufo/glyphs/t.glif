@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t" format="2">
+  <advance width="1233"/>
+  <unicode hex="0074"/>
+  <anchor x="888" y="0" name="cedilla"/>
+  <anchor x="616" y="0" name="below"/>
+  <anchor x="616" y="1556" name="above"/>
+  <outline>
+    <contour>
+      <point x="614" y="1438" type="line"/>
+      <point x="614" y="1120" type="line"/>
+      <point x="1032" y="1120" type="line"/>
+      <point x="1032" y="977" type="line"/>
+      <point x="614" y="977" type="line"/>
+      <point x="614" y="369" type="line" smooth="yes"/>
+      <point x="614" y="245"/>
+      <point x="708" y="147"/>
+      <point x="825" y="147" type="qcurve" smooth="yes"/>
+      <point x="1032" y="147" type="line"/>
+      <point x="1032" y="0" type="line"/>
+      <point x="807" y="0" type="line" smooth="yes"/>
+      <point x="600" y="0"/>
+      <point x="430" y="166"/>
+      <point x="430" y="369" type="qcurve" smooth="yes"/>
+      <point x="430" y="977" type="line"/>
+      <point x="131" y="977" type="line"/>
+      <point x="131" y="1120" type="line"/>
+      <point x="430" y="1120" type="line"/>
+      <point x="430" y="1438" type="line"/>
+    </contour>
+  </outline>
+</glyph>

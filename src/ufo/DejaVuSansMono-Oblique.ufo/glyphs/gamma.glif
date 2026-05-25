@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gamma" format="2">
+  <advance width="1233"/>
+  <unicode hex="03B3"/>
+  <outline>
+    <contour>
+      <point x="229.296" y="836" type="line" smooth="yes"/>
+      <point x="208.347" y="962"/>
+      <point x="114.288" y="962" type="qcurve" smooth="yes"/>
+      <point x="65.2881" y="962" type="line"/>
+      <point x="96" y="1120" type="line"/>
+      <point x="166" y="1120" type="line" smooth="yes"/>
+      <point x="359.716" y="1120"/>
+      <point x="390.887" y="944.5" type="qcurve" smooth="yes"/>
+      <point x="512.639" y="259" type="line"/>
+      <point x="1006" y="1120" type="line"/>
+      <point x="1197" y="1120" type="line"/>
+      <point x="558.294" y="0" type="line"/>
+      <point x="475.488" y="-426" type="line"/>
+      <point x="285.488" y="-426" type="line"/>
+      <point x="368.294" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

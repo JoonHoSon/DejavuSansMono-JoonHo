@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lacute" format="2">
+  <advance width="1233"/>
+  <unicode hex="013A"/>
+  <anchor x="562" y="0" name="below"/>
+  <anchor x="888" y="0" name="cedilla"/>
+  <outline>
+    <component base="Acute" xOffset="-95" yOffset="374"/>
+    <component base="l"/>
+  </outline>
+</glyph>

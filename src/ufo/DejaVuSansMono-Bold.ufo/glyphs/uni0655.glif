@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0655" format="2">
+  <advance width="1233"/>
+  <unicode hex="0655"/>
+  <anchor x="618" y="-620" name="rtl-below-mark"/>
+  <anchor x="618" y="0" name="_rtl-below"/>
+  <anchor x="618" y="0" name="_Ligature rtl-below"/>
+  <outline>
+    <component base="uni0674" yOffset="-1890"/>
+  </outline>
+</glyph>

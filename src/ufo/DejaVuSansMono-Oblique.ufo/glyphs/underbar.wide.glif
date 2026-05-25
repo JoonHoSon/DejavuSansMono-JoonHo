@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underbar.wide" format="2">
+  <advance width="1233"/>
+  <outline>
+    <contour>
+      <point x="1227" y="-204" type="line"/>
+      <point x="6" y="-204" type="line"/>
+      <point x="6" y="-90" type="line"/>
+      <point x="1227" y="-90" type="line"/>
+    </contour>
+  </outline>
+</glyph>

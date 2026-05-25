@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFB60" format="2">
+  <advance width="1233"/>
+  <unicode hex="FB60"/>
+  <anchor x="603" y="-101" name="rtl-below"/>
+  <anchor x="603" y="1299" name="rtl-above"/>
+  <outline>
+    <component base="uniFBE8"/>
+    <component base="arabic_2dots_a" xOffset="528" yOffset="994"/>
+  </outline>
+</glyph>

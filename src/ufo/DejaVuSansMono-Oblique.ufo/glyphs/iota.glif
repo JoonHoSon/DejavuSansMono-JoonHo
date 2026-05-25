@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iota" format="2">
+  <advance width="1233"/>
+  <unicode hex="03B9"/>
+  <outline>
+    <contour>
+      <point x="817.353" y="1120" type="line"/>
+      <point x="676.428" y="395" type="line" smooth="yes"/>
+      <point x="648.175" y="249.652"/>
+      <point x="673.301" y="204" type="qcurve" smooth="yes"/>
+      <point x="699.72" y="156"/>
+      <point x="807.971" y="156" type="qcurve" smooth="yes"/>
+      <point x="807.971" y="156"/>
+      <point x="896.471" y="156" type="qcurve"/>
+      <point x="866.147" y="0" type="line"/>
+      <point x="755.647" y="0" type="line" smooth="yes"/>
+      <point x="575.647" y="0"/>
+      <point x="512.308" y="96" type="qcurve" smooth="yes"/>
+      <point x="449.495" y="193.757"/>
+      <point x="490.565" y="406" type="qcurve" smooth="yes"/>
+      <point x="490.565" y="406"/>
+      <point x="601.057" y="977" type="qcurve"/>
+      <point x="391.057" y="977" type="line"/>
+      <point x="418.853" y="1120" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0652" format="2">
+  <advance width="1233"/>
+  <unicode hex="0652"/>
+  <anchor x="618" y="1128" name="_rtl-above-mark"/>
+  <anchor x="618" y="1128" name="_rtl-above"/>
+  <anchor x="618" y="1128" name="_Ligature rtl-above"/>
+  <outline>
+    <contour>
+      <point x="738" y="1524" type="qcurve" smooth="yes"/>
+      <point x="738" y="1574"/>
+      <point x="668" y="1645"/>
+      <point x="564" y="1645"/>
+      <point x="495" y="1575"/>
+      <point x="495" y="1524" type="qcurve" smooth="yes"/>
+      <point x="495" y="1472"/>
+      <point x="564" y="1402"/>
+      <point x="668" y="1402"/>
+      <point x="738" y="1473"/>
+    </contour>
+    <contour>
+      <point x="917" y="1398"/>
+      <point x="744" y="1222"/>
+      <point x="491" y="1222"/>
+      <point x="315" y="1398"/>
+      <point x="315" y="1651"/>
+      <point x="491" y="1825"/>
+      <point x="744" y="1825"/>
+      <point x="917" y="1651"/>
+    </contour>
+  </outline>
+</glyph>

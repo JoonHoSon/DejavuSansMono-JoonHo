@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni27A0" format="2">
+  <advance width="1233"/>
+  <unicode hex="27A0"/>
+  <outline>
+    <contour>
+      <point x="837.957" y="936.891" type="line"/>
+      <point x="837.957" y="1035" type="line"/>
+      <point x="968.77" y="817.453"/>
+      <point x="1149.35" y="723.609" type="qcurve"/>
+      <point x="968.77" y="629.766"/>
+      <point x="837.957" y="412.219" type="qcurve"/>
+      <point x="837.957" y="510.328" type="line"/>
+      <point x="552.871" y="510.328" type="line"/>
+      <point x="552.871" y="936.891" type="line"/>
+    </contour>
+    <contour>
+      <point x="495.996" y="510.328" type="line"/>
+      <point x="325.371" y="510.328" type="line"/>
+      <point x="325.371" y="936.891" type="line"/>
+      <point x="495.996" y="936.891" type="line"/>
+    </contour>
+    <contour>
+      <point x="268.496" y="510.328" type="line"/>
+      <point x="183.185" y="510.328" type="line"/>
+      <point x="183.185" y="936.891" type="line"/>
+      <point x="268.496" y="936.891" type="line"/>
+    </contour>
+    <contour>
+      <point x="126.31" y="510.328" type="line"/>
+      <point x="83.6523" y="510.328" type="line"/>
+      <point x="83.6523" y="936.891" type="line"/>
+      <point x="126.31" y="936.891" type="line"/>
+    </contour>
+  </outline>
+</glyph>

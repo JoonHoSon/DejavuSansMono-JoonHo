@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dlLtcaron" format="2">
+  <advance width="1233"/>
+  <outline>
+    <contour>
+      <point x="702" y="1638" type="line"/>
+      <point x="1023" y="1638" type="line"/>
+      <point x="766" y="1262" type="line"/>
+      <point x="569" y="1262" type="line"/>
+    </contour>
+  </outline>
+</glyph>

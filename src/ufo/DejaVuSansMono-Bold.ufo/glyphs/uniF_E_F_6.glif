@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFEF6" format="2">
+  <advance width="1233"/>
+  <unicode hex="FEF6"/>
+  <anchor x="888" y="-76" name="Ligature rtl-below"/>
+  <anchor x="924" y="1640" name="Ligature rtl-above"/>
+  <anchor x="712" y="-112" name="Ligature rtl-below"/>
+  <anchor x="143" y="1861.5" name="Ligature rtl-above"/>
+  <outline>
+    <component base="uniFEFC"/>
+    <component base="uni0653" xOffset="-372" yOffset="300"/>
+  </outline>
+</glyph>

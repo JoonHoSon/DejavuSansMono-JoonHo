@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni019D" format="2">
+  <advance width="1233"/>
+  <unicode hex="019D"/>
+  <anchor x="616" y="1493" name="above"/>
+  <anchor x="616" y="-426" name="below"/>
+  <anchor x="996" y="0" name="cedilla"/>
+  <outline>
+    <contour>
+      <point x="190" y="1493" type="line"/>
+      <point x="420.4" y="1493" type="line"/>
+      <point x="874" y="264" type="line"/>
+      <point x="874" y="1493" type="line"/>
+      <point x="1049" y="1493" type="line"/>
+      <point x="1049" y="0" type="line"/>
+      <point x="819.101" y="0" type="line"/>
+      <point x="365.5" y="1229" type="line"/>
+      <point x="365.5" y="-20" type="line" smooth="yes"/>
+      <point x="365.5" y="-215"/>
+      <point x="285.4" y="-320" type="qcurve" smooth="yes"/>
+      <point x="204.4" y="-426"/>
+      <point x="55.9004" y="-426" type="qcurve" smooth="yes"/>
+      <point x="29" y="-426" type="line"/>
+      <point x="29" y="-270" type="line"/>
+      <point x="110" y="-270"/>
+      <point x="150.4" y="-208" type="qcurve" smooth="yes"/>
+      <point x="190" y="-147.228"/>
+      <point x="190" y="-20" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

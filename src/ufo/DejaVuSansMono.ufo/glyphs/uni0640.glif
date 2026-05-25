@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0640" format="2">
+  <advance width="1233"/>
+  <unicode hex="0640"/>
+  <anchor x="608" y="-136" name="rtl-below"/>
+  <anchor x="600" y="1108" name="rtl-above"/>
+  <outline>
+    <contour>
+      <point x="-20" y="0" type="line"/>
+      <point x="-20" y="184" type="line"/>
+      <point x="1253" y="184" type="line"/>
+      <point x="1253" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

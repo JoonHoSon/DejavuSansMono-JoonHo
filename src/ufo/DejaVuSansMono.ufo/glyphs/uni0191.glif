@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0191" format="2">
+  <advance width="1233"/>
+  <unicode hex="0191"/>
+  <anchor x="770" y="-426" name="below"/>
+  <anchor x="770" y="1493" name="above"/>
+  <anchor x="290" y="-426" name="cedilla"/>
+  <outline>
+    <contour>
+      <point x="380" y="1493" type="line"/>
+      <point x="1170" y="1493" type="line"/>
+      <point x="1170" y="1323" type="line"/>
+      <point x="583" y="1323" type="line"/>
+      <point x="583" y="883" type="line"/>
+      <point x="1107" y="883" type="line"/>
+      <point x="1107" y="713" type="line"/>
+      <point x="583" y="713" type="line"/>
+      <point x="583" y="-20" type="line" smooth="yes"/>
+      <point x="583" y="-215"/>
+      <point x="494" y="-320" type="qcurve" smooth="yes"/>
+      <point x="404" y="-426"/>
+      <point x="239" y="-426" type="qcurve" smooth="yes"/>
+      <point x="63" y="-426" type="line"/>
+      <point x="63" y="-270" type="line"/>
+      <point x="201" y="-270" type="line" smooth="yes"/>
+      <point x="291" y="-270"/>
+      <point x="336" y="-208" type="qcurve" smooth="yes"/>
+      <point x="380" y="-146"/>
+      <point x="380" y="-20" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

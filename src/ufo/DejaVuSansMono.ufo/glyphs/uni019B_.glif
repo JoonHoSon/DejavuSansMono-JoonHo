@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni019B" format="2">
+  <advance width="1233"/>
+  <unicode hex="019B"/>
+  <anchor x="1032" y="0" name="cedilla"/>
+  <anchor x="616" y="0" name="below"/>
+  <anchor x="616" y="1556" name="above"/>
+  <outline>
+    <contour>
+      <point x="578.858" y="1213.1" type="line"/>
+      <point x="927" y="1455" type="line"/>
+      <point x="1007" y="1345" type="line"/>
+      <point x="636.45" y="1087.02" type="line"/>
+      <point x="1133" y="0" type="line"/>
+      <point x="942" y="0" type="line"/>
+      <point x="620.641" y="703.503" type="line"/>
+      <point x="291" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="524.827" y="913.255" type="line"/>
+      <point x="491.34" y="986.562" type="line"/>
+      <point x="129" y="736" type="line"/>
+      <point x="49" y="847" type="line"/>
+      <point x="433.679" y="1112.79" type="line"/>
+      <point x="260" y="1493" type="line"/>
+      <point x="451" y="1493" type="line"/>
+    </contour>
+  </outline>
+</glyph>

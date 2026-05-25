@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0EB5" format="2">
+  <advance width="1233"/>
+  <unicode hex="0EB5"/>
+  <anchor x="1148.93" y="1143" name="_lao-above"/>
+  <outline>
+    <contour>
+      <point x="273" y="1573" type="qcurve" smooth="yes"/>
+      <point x="236" y="1386"/>
+      <point x="529" y="1386" type="qcurve"/>
+      <point x="505" y="1260" type="line"/>
+      <point x="22" y="1260"/>
+      <point x="84" y="1579" type="qcurve" smooth="yes"/>
+      <point x="145" y="1897"/>
+      <point x="695" y="1897" type="qcurve" smooth="yes"/>
+      <point x="1211" y="1897"/>
+      <point x="1150" y="1579" type="qcurve" smooth="yes"/>
+      <point x="1127" y="1460"/>
+      <point x="1050" y="1386" type="qcurve"/>
+      <point x="1262" y="1386" type="line"/>
+      <point x="1237" y="1254" type="line"/>
+      <point x="638" y="1254" type="line"/>
+      <point x="639" y="1260" type="line"/>
+      <point x="663" y="1386" type="line"/>
+      <point x="920" y="1386"/>
+      <point x="959" y="1573" type="qcurve" smooth="yes"/>
+      <point x="997" y="1770"/>
+      <point x="671" y="1770" type="qcurve" smooth="yes"/>
+      <point x="311" y="1770"/>
+    </contour>
+  </outline>
+</glyph>

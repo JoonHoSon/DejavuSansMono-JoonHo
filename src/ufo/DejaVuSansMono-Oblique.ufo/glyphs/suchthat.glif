@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="suchthat" format="2">
+  <advance width="1233"/>
+  <unicode hex="220B"/>
+  <outline>
+    <contour>
+      <point x="928.5" y="817" type="line"/>
+      <point x="920.5" y="919"/>
+      <point x="887.5" y="1014" type="qcurve" smooth="yes"/>
+      <point x="843.5" y="1144"/>
+      <point x="691.5" y="1294"/>
+      <point x="601.5" y="1294" type="qcurve" smooth="yes"/>
+      <point x="129.5" y="1294" type="line"/>
+      <point x="129.5" y="1464" type="line"/>
+      <point x="601.5" y="1464" type="line" smooth="yes"/>
+      <point x="737.5" y="1464"/>
+      <point x="969.5" y="1268"/>
+      <point x="1103.5" y="931"/>
+      <point x="1103.5" y="533"/>
+      <point x="969.5" y="196"/>
+      <point x="737.5" y="0"/>
+      <point x="601.5" y="0" type="qcurve" smooth="yes"/>
+      <point x="129.5" y="0" type="line"/>
+      <point x="129.5" y="170" type="line"/>
+      <point x="601.5" y="170" type="line" smooth="yes"/>
+      <point x="693.5" y="170"/>
+      <point x="767.5" y="245" type="qcurve" smooth="yes"/>
+      <point x="844.5" y="322"/>
+      <point x="887.5" y="450" type="qcurve" smooth="yes"/>
+      <point x="920.5" y="545"/>
+      <point x="928.5" y="647" type="qcurve"/>
+      <point x="130.5" y="647" type="line"/>
+      <point x="130.5" y="817" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0EC8" format="2">
+  <advance width="1233"/>
+  <unicode hex="0EC8"/>
+  <anchor x="1233" y="1120" name="_lao-above"/>
+  <outline>
+    <contour>
+      <point x="526.5" y="1622" type="line"/>
+      <point x="706.5" y="1622" type="line"/>
+      <point x="706.5" y="1265" type="line"/>
+      <point x="526.5" y="1265" type="line"/>
+    </contour>
+  </outline>
+</glyph>
