@@ -1,9 +1,6 @@
 {
 .appVersion = "3436";
 .formatVersion = 3;
-DisplayStrings = (
-"0"
-);
 customParameters = (
 {
 name = vendorID;
@@ -144865,6 +144862,12 @@ note = uni2E18.case;
 );
 instances = (
 {
+customParameters = (
+{
+name = isFixedPitch;
+value = 1;
+}
+);
 instanceInterpolations = {
 m01 = 1;
 };

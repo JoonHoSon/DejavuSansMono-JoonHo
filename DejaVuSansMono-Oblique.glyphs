@@ -110675,9 +110675,16 @@ note = uni2E18.case;
 );
 instances = (
 {
+customParameters = (
+{
+name = isFixedPitch;
+value = 1;
+}
+);
 instanceInterpolations = {
 m01 = 1;
 };
+isItalic = 1;
 name = Oblique;
 properties = (
 {
